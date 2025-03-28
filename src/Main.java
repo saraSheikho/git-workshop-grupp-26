@@ -14,6 +14,7 @@ public class Main {
             Ahmad ahmad = new Ahmad();
             ahmad.sayHello("Hello from Ahmad");
         }
+
         
     }
 }
