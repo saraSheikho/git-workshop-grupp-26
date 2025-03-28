@@ -1,6 +1,6 @@
 public class ahmad {
-    
-    public void sayHello() {
-        System.out.println("Hello my name is Ahmad!");
+
+    public void sayHello(String message) {
+        System.out.println(message);
     }
 }
